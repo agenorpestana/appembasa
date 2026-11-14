@@ -1,0 +1,6 @@
+{
+  "name": "HydroScan",
+  "description": "Sistema de monitoramento de qualidade da água, telemetria IoT em tempo real, calibração e relatórios para saneamento básico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
